@@ -1,0 +1,32 @@
+body {
+	margin: auto;
+	max-width: 70%;
+}
+table caption {
+
+    caption-side: bottom;
+    font-style: italic;
+
+}
+figure {
+   clear: right;
+   float: right;
+}
+table, th, td {
+	border: 1px solid black
+}
+figcaption {
+	font-style: italic;
+}
+h1,h2,h3{
+	text-align: center;
+}
+table {
+	margin-block: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 960px
+}
+table td{
+	text-align: center;
+}
